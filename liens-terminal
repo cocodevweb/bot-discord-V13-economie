@@ -1,0 +1,36 @@
+Voici les liens a mettre dans le terminal afin de mettre votre bot en local sur votre pc
+
+https://nodejs.org/en/ Installer la dernière version
+
+https://code.visualstudio.com/download Installer un éditeur de text tel que visual studio code. Merci de cocher les 2 cases qui sont pas activer lors de l'installation 
+(dans other)
+
+2eme étape 
+
+Créer un serveur discord.
+
+Puis créer un bot avec ce liens https://discord.com/developers/applications
+
+Aller dans bot puis activer add bot
+
+Cochez vous les Privilège
+
+etape 3 
+
+Aller dans OAauth2 
+
+Cocher applications.commands et bot puis administrateur
+
+Copier coller le liens puis l'inviter dans un de votre serveur
+
+Installation des packages
+
+Ouvrer votre terminal
+
+étape 4
+
+Ouvrervotre terminalpuis faites npm init -y
+
+Puis npm i discord.js@13.6.0 pour installer un fichier pour les modules
+
+Aller dans votre package.json puis enlever le ^ a la ligne discord.js (12) afin d'enlever les mises a jours automatique
