@@ -34,3 +34,15 @@ Ouvrervotre terminalpuis faites npm init -y
 Puis npm i discord.js@13.6.0 pour installer un fichier pour les modules
 
 Aller dans votre package.json puis enlever le ^ a la ligne discord.js (12) afin d'enlever les mises a jours automatique
+
+Installer eslint
+
+npm install --save-dev eslint
+
+Puis installer ce modules
+
+npm i @discordjs/rest discord-api-types
+
+Installer le buildes
+
+npm install @discordjs/builders
