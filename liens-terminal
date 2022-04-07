@@ -46,3 +46,7 @@ npm i @discordjs/rest discord-api-types
 Installer le buildes
 
 npm install @discordjs/builders
+
+On vas installer mogooDB pour ce faire taper cette commande dans votre terminal
+
+npm i mongoose
