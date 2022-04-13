@@ -50,3 +50,7 @@ npm install @discordjs/builders
 On vas installer mogooDB pour ce faire taper cette commande dans votre terminal
 
 npm i mongoose
+
+Nous allons installer tout les eslints qu'il y auras besoin pour ce faire taper cette commande
+
+npm -D eslint prettier eslint-config-prettier eslint-plugin-import eslint-plugin-prettier
