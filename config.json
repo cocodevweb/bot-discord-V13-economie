@@ -1,3 +1,6 @@
 {
-  "token": "VOTRE TOKEN"
+  "token": "OTYwNDk3NTUwNzIzNTQzMDUx.YkrTDQ.ObxhhtIAhlco4R7PYzOJlZgli2w",
+  "clientId": "960497550723543051",
+  "guildId": "921153392221515776",
+  "database_uri": "mongodb+srv://cocobot:Nicolasa1!@cluster0.gmy97.mongodb.net/cocobot?retryWrites=true&w=majority"
 }
